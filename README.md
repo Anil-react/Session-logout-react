@@ -1,5 +1,3 @@
-# Session-logout-react
-
 # React Auto-Logout with Notification
 
 This React application demonstrates how to implement an auto-logout feature after 2 minutes of user inactivity. Additionally, the user receives a notification 1 minute before the session expires.
