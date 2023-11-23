@@ -31,7 +31,7 @@ export const AuthProvider = ({ children }) => {
     setLoginTime(null);
     localStorage.removeItem('auth');
   };
-
+    
   const contextValue = {
     isAuthenticated,
     login,
